@@ -98,6 +98,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585292685200" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585555882915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585555882915" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1585555543322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -118,5 +122,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="294" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585472397643" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1585555901985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585555901985" />
   </component>
 </project>
