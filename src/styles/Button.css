@@ -1,0 +1,27 @@
+.btn-add {
+    color: white;
+    background-color: blue;
+    height: 30px;
+    width: 80px;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-add:focus{
+    outline: none;
+}
+
+.btn-edit {
+    color: white;
+    background-color: crimson;
+    height: 30px;
+    width: 80px;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-edit:focus{
+    outline: none;
+}

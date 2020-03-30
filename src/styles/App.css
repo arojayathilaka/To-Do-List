@@ -1,0 +1,30 @@
+body {
+    background-color: ghostwhite;
+}
+
+.App {
+    background-color: rgba(0, 0, 0, 0.78);
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+    border-radius: 4px;
+}
+
+.form h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+.form input {
+    background-color: gold;
+    border: 0;
+    width: 200px;
+    height: 25px;
+    margin: 10px 30px 30px 30px;
+    padding: 0 10px;
+    border-radius: 5px;
+}
+
+.form input:focus{
+    outline: none;
+}

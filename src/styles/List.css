@@ -1,0 +1,23 @@
+.list {
+    color: azure;
+    width: 300px;
+    background-color: limegreen;
+    height: 30px;
+    margin: auto;
+}
+
+.list p {
+    padding: 4px;
+    position: relative;
+}
+
+#icons{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.fa-icons {
+    margin: 0 5px;
+    font-size: 15px;
+}
